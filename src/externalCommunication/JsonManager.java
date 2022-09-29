@@ -15,14 +15,6 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-/**
- *
- *   @ Ίνγκριντ Νικόλα - std095138@ac.eap.gr   
- *   @ Χρυσούλα Τζώτζη - std100289@ac.eap.gr
- *   @ Πασχάλης Εκλεμές - std094823@ac.eap.gr
- *   @ Τμήμα ΗΛΕ-44 2019-2020
- *   
- */
 public class JsonManager {
     
     // Strings με τα επιμέρους τμήματα του URL
