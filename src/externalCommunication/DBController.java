@@ -19,14 +19,6 @@ import model.CountryDatasetJpaController;
 import model.CountryJpaController;
 import model.exceptions.NonexistentEntityException;
 
-/**
- *
- * @ Ίνγκριντ Νικόλα - std095138@ac.eap.gr
- * @ Χρυσούλα Τζώτζη - std100289@ac.eap.gr
- * @ Πασχάλης Εκλεμές - std094823@ac.eap.gr
- * @ Τμήμα ΗΛΕ-44 2019-2020
- *
- */
 public final class DBController {
 
     // Δήλωση static για να χρησιμοποιηθεί ο ίδιος entity manager καθ' όλη τη διάρκεια της εκτέλεσης
